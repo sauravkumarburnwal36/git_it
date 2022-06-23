@@ -1,1 +1,0 @@
-Code a project and use git to manager teams, it should be a game
